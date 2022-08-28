@@ -64,8 +64,8 @@ The images mentioned below are the ones that we find particularly useful. There 
 ## Usage
 
 <!--- REQUIRED -->
-<!--- Explain what the thing does. Use screenshots or videos. -->
-While we donâ€™t want to be corporate and stuffy, it is important to us that we are represented in the right way as this helps others to find us. This guide will help you do that correctly!
+<!--- Explain what the thing ds. Use screenshots or videos. -->
+While we don"™t want to be corporate and stuffy, it is important to us that we are represented in the right way as this helps others to find us. This guide will help you do that correctly!
 
 The Geek.Zone logo can be used to show affiliation with Geek.Zone or when something is being run by Geek.Zone. In either case, it should be included with a link to an appropriate page on Geek.Zone, such as an article, or at very least Geek.Zone itself. You are free to use these images as long as you credit Geek.Zone, including a link to http://Geek.Zone, and share them under the
 The Creative Commons Attribution 4.0 International License. Publications that are designed by Geek.Zone members, for and on behalf of Geek.Zone, do not need to provide attribution.
@@ -97,32 +97,32 @@ When writing about one of our Districts, their names should be stylised as follo
 * Geek.Zone/London
 
 When referring to the organisation, it is best to use the general form, for example;
-* "Geek.Zone isâ€¦"
+* "Geek.Zone is"¦"
 * "Jane from Geek.Zone spoke at the event"
-* "Geek.Zone hasâ€¦"
+* "Geek.Zone has"¦"
 
 When writing about one of our community centres, one should use the singular form, for example,
-* "The Geek.Zone in Coventry hasâ€¦"
-* "Every Geek.Zone isâ€¦"
+* "The Geek.Zone in Coventry has..."
+* "Every Geek.Zone is..."
 * "John went to the Geek.Zone"
 
-We somtimes verbally use the term â€geekzonersâ€ to describe members. In writing, however, those with Geek.Zone membership should be referred to as â€œGeek.Zone Membersâ€.
+We sometimes verbally use the term "geekzoners" to describe members. In writing, however, those with Geek.Zone membership should be referred to as "Geek.Zone Members".
 
 We ask that the following terms are not used in writing as they could lead to confusion.
 * Geek.Zones
 * Geek.Zoner
 * Geek.Zoners
 
-Having led with the desire to avoid stuffiness, this all does sound a little stuffy! This is because, however, these measures prevent ambiguaty.
-This is due to the fact that the following [gTLDâ€™s](https://en.wikipedia.org/wiki/Generic_top-level_domain) do not exist.
+Having led with the desire to avoid stuffiness, this all ds sound a little stuffy! This is because, however, these measures prevent ambiguaty.
+This is due to the fact that the following [gTLDs](https://en.wikipedia.org/wiki/Generic_top-level_domain) do not exist.
 
 * .zones
 * .zoner
 * .zoners
 
 Using one of these terms might cause people to think that you are referring to a website, then get frustrated when the 
-link is appears to be â€œbrokenâ€. For example, a popular travel provider ran a campaign that mentioned the non-existent 
-â€œ[.yeah](https://www.youtube.com/watch?v=AO56QVAR1Qc)â€ gTLD. Since it was in the closing â€œcall to actionâ€ section of 
+link is appears to be "broken". For example, a popular travel provider ran a campaign that mentioned the non-existent 
+"[.yeah](https://www.youtube.com/watch?v=AO56QVAR1Qc)" gTLD. Since it was in the closing "call to action" section of 
 the advert, it was all that many people remembered. This led to 
 [tremendous confusion](https://www.billhartzer.com/domain-names/people-confuse-new-gtld-domains-com-domains/) as well 
 as loss of custom, so they subsequently decided to pull the advert after lots of time and money wasted. If you like 
@@ -139,7 +139,7 @@ This is the official, main Geek.Zone logo
 | [logo_MAIN_triangle_clean_y100bg_CMYK.ai](images/2017/logo_MAIN_triangle_clean_y100bg_CMYK.ai) | AI     | CMYK   | Print publications, such as banners     |
 | [logo_MAIN_triangle_clean_yellow.png](images/2017/logo_MAIN_triangle_clean_yellow.png)                                                              | PNG    | RGB    | Web, such as social media               |
 
-Hereâ€™s a variation that includes the â€œGeek.Zoneâ€ text.
+Here"™s a variation that includes the "Geek.Zone" text.
 
 | Filename                                                                                                   | Format | Varient           | Colour | Usage                               |
 |------------------------------------------------------------------------------------------------------------|--------|-------------------|--------|-------------------------------------|
@@ -192,7 +192,7 @@ We use the 100% colour pallet to keep everything nice and easy.
 
 ## URL Style
 
-When displaying URLs on Geek.Zone printed or digital signage, do not include `http://www.`. Our webserver does this automatically,
+When displaying URLs on Geek.Zone printed or digital signage, do not include `http://www.`. Our webserver ds this automatically,
 so it looks untidy. Furthermore, CamelCase should be utilised where possible.
 
 For example.
