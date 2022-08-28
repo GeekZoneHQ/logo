@@ -97,9 +97,9 @@ When writing about one of our Districts, their names should be stylised as follo
 * Geek.Zone/London
 
 When referring to the organisation, it is best to use the general form, for example;
-* "Geek.Zone is"¦"
-* "Jane from Geek.Zone spoke at the event"
-* "Geek.Zone has"¦"
+* "Geek.Zone is..."
+* "Jane from Geek.Zone spoke at the event..."
+* "Geek.Zone has..."
 
 When writing about one of our community centres, one should use the singular form, for example,
 * "The Geek.Zone in Coventry has..."
@@ -139,7 +139,7 @@ This is the official, main Geek.Zone logo
 | [logo_MAIN_triangle_clean_y100bg_CMYK.ai](images/2017/logo_MAIN_triangle_clean_y100bg_CMYK.ai) | AI     | CMYK   | Print publications, such as banners     |
 | [logo_MAIN_triangle_clean_yellow.png](images/2017/logo_MAIN_triangle_clean_yellow.png)                                                              | PNG    | RGB    | Web, such as social media               |
 
-Here"™s a variation that includes the "Geek.Zone" text.
+Here is a variation that includes the "Geek.Zone" text.
 
 | Filename                                                                                                   | Format | Varient           | Colour | Usage                               |
 |------------------------------------------------------------------------------------------------------------|--------|-------------------|--------|-------------------------------------|
@@ -192,7 +192,7 @@ We use the 100% colour pallet to keep everything nice and easy.
 
 ## URL Style
 
-When displaying URLs on Geek.Zone printed or digital signage, do not include `http://www.`. Our webserver ds this automatically,
+When displaying URLs on Geek.Zone printed or digital signage, do not include `http://www.`. Our webserver does this automatically,
 so it looks untidy. Furthermore, CamelCase should be utilised where possible.
 
 For example.
