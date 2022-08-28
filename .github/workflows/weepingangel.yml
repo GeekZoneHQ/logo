@@ -1,14 +1,3 @@
----
-name: weepingangel
-on:
-  schedule:
-    - cron: '0 10 * * *'
-jobs:
-  weepingangel:
-    if: ${{ !github.event.issue.pull_request }}
-    runs-on: ubuntu-latest
-    env:
-      GH_ACCESS_TOKEN: ${{ secrets.GZBOT_GHPAT_WEEPINGANGEL }}
-    steps:
-      - name: Run weepingangel action
-        uses: geekzonehq/reusable-workflows/.github/workflows/eisenhower.yml@main
+version https://git-lfs.github.com/spec/v1
+oid sha256:907b9b990664bb60b708822dde4ad2f1f5125f2fc2d7fe554fd24bb607452980
+size 363
