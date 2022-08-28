@@ -65,7 +65,7 @@ The images mentioned below are the ones that we find particularly useful. There 
 
 <!--- REQUIRED -->
 <!--- Explain what the thing ds. Use screenshots or videos. -->
-While we don"™t want to be corporate and stuffy, it is important to us that we are represented in the right way as this helps others to find us. This guide will help you do that correctly!
+While we don't want to be corporate and stuffy, it is important to us that we are represented in the right way as this helps others to find us. This guide will help you do that correctly!
 
 The Geek.Zone logo can be used to show affiliation with Geek.Zone or when something is being run by Geek.Zone. In either case, it should be included with a link to an appropriate page on Geek.Zone, such as an article, or at very least Geek.Zone itself. You are free to use these images as long as you credit Geek.Zone, including a link to http://Geek.Zone, and share them under the
 The Creative Commons Attribution 4.0 International License. Publications that are designed by Geek.Zone members, for and on behalf of Geek.Zone, do not need to provide attribution.
@@ -106,7 +106,7 @@ When writing about one of our community centres, one should use the singular for
 * "Every Geek.Zone is..."
 * "John went to the Geek.Zone"
 
-We sometimes verbally use the term "geekzoners" to describe members. In writing, however, those with Geek.Zone membership should be referred to as "Geek.Zone Members".
+We sometimes verbally use the term "geekzoners" to describe members. In writing, however, those with Geek.Zone membership should be referred to as "Geek.Zone Members".
 
 We ask that the following terms are not used in writing as they could lead to confusion.
 * Geek.Zones
@@ -121,8 +121,8 @@ This is due to the fact that the following [gTLDs](https://en.wikipedia.org/wiki
 * .zoners
 
 Using one of these terms might cause people to think that you are referring to a website, then get frustrated when the 
-link is appears to be "broken". For example, a popular travel provider ran a campaign that mentioned the non-existent 
-"[.yeah](https://www.youtube.com/watch?v=AO56QVAR1Qc)" gTLD. Since it was in the closing "call to action" section of 
+link is appears to be "broken". For example, a popular travel provider ran a campaign that mentioned the non-existent 
+"[.yeah](https://www.youtube.com/watch?v=AO56QVAR1Qc)" gTLD. Since it was in the closing "call to action" section of 
 the advert, it was all that many people remembered. This led to 
 [tremendous confusion](https://www.billhartzer.com/domain-names/people-confuse-new-gtld-domains-com-domains/) as well 
 as loss of custom, so they subsequently decided to pull the advert after lots of time and money wasted. If you like 
@@ -139,7 +139,7 @@ This is the official, main Geek.Zone logo
 | [logo_MAIN_triangle_clean_y100bg_CMYK.ai](images/2017/logo_MAIN_triangle_clean_y100bg_CMYK.ai) | AI     | CMYK   | Print publications, such as banners     |
 | [logo_MAIN_triangle_clean_yellow.png](images/2017/logo_MAIN_triangle_clean_yellow.png)                                                              | PNG    | RGB    | Web, such as social media               |
 
-Here"™s a variation that includes the "Geek.Zone" text.
+Here"™s a variation that includes the "Geek.Zone" text.
 
 | Filename                                                                                                   | Format | Varient           | Colour | Usage                               |
 |------------------------------------------------------------------------------------------------------------|--------|-------------------|--------|-------------------------------------|
